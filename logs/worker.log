@@ -1,0 +1,58 @@
+2025-09-05 10:04:06,848 Worker rq:worker:4491ef27a112465f991975463e802fdf started with PID 2439, version 1.15.1
+2025-09-05 10:04:06,849 Subscribing to channel rq:pubsub:4491ef27a112465f991975463e802fdf
+2025-09-05 10:04:06,850 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:04:06,851 Cleaning registries for queue: home-sbdigital-frappe-bench:short
+2025-09-05 10:04:06,852 Cleaning registries for queue: home-sbdigital-frappe-bench:default
+2025-09-05 10:04:06,853 Cleaning registries for queue: home-sbdigital-frappe-bench:long
+2025-09-05 10:06:37,776 Worker rq:worker:1b13b341c6d2421291d4fb773a6310ab started with PID 2943, version 1.15.1
+2025-09-05 10:06:37,776 Subscribing to channel rq:pubsub:1b13b341c6d2421291d4fb773a6310ab
+2025-09-05 10:06:37,778 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:06:38,102 Worker 1b13b341c6d2421291d4fb773a6310ab [PID 2943]: warm shut down requested
+2025-09-05 10:06:38,105 Unsubscribing from channel rq:pubsub:1b13b341c6d2421291d4fb773a6310ab
+2025-09-05 10:07:37,446 Worker rq:worker:a0a0adc98b4a466889fe4754caa858b6 started with PID 3030, version 1.15.1
+2025-09-05 10:07:37,446 Subscribing to channel rq:pubsub:a0a0adc98b4a466889fe4754caa858b6
+2025-09-05 10:07:37,447 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:07:38,033 Worker a0a0adc98b4a466889fe4754caa858b6 [PID 3030]: warm shut down requested
+2025-09-05 10:07:38,035 Unsubscribing from channel rq:pubsub:a0a0adc98b4a466889fe4754caa858b6
+2025-09-05 10:09:18,027 Worker rq:worker:a574815f12864a3b9b4b10724baedba5 started with PID 3237, version 1.15.1
+2025-09-05 10:09:18,027 Subscribing to channel rq:pubsub:a574815f12864a3b9b4b10724baedba5
+2025-09-05 10:09:18,031 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:09:18,161 Worker a574815f12864a3b9b4b10724baedba5 [PID 3237]: warm shut down requested
+2025-09-05 10:09:18,163 Unsubscribing from channel rq:pubsub:a574815f12864a3b9b4b10724baedba5
+2025-09-05 10:13:28,370 Worker rq:worker:644f8011ac36458683cae309786a037b started with PID 4104, version 1.15.1
+2025-09-05 10:13:28,370 Subscribing to channel rq:pubsub:644f8011ac36458683cae309786a037b
+2025-09-05 10:13:28,372 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:18:51,579 Worker 644f8011ac36458683cae309786a037b [PID 4104]: warm shut down requested
+2025-09-05 10:18:51,579 Worker 4491ef27a112465f991975463e802fdf [PID 2439]: warm shut down requested
+2025-09-05 10:18:51,586 Unsubscribing from channel rq:pubsub:4491ef27a112465f991975463e802fdf
+2025-09-05 10:18:51,590 Unsubscribing from channel rq:pubsub:644f8011ac36458683cae309786a037b
+2025-09-05 10:19:48,200 Worker rq:worker:1d363c36e83e4103bbe4c99d64b1b339 started with PID 5636, version 1.15.1
+2025-09-05 10:19:48,200 Subscribing to channel rq:pubsub:1d363c36e83e4103bbe4c99d64b1b339
+2025-09-05 10:19:48,202 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:19:48,202 Cleaning registries for queue: home-sbdigital-frappe-bench:short
+2025-09-05 10:19:48,204 Cleaning registries for queue: home-sbdigital-frappe-bench:default
+2025-09-05 10:19:48,206 Cleaning registries for queue: home-sbdigital-frappe-bench:long
+2025-09-05 10:28:42,090 Worker rq:worker:9e616c2ee8f04908889d14de6b05eceb started with PID 6501, version 1.15.1
+2025-09-05 10:28:42,090 Subscribing to channel rq:pubsub:9e616c2ee8f04908889d14de6b05eceb
+2025-09-05 10:28:42,091 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:28:42,481 Worker 9e616c2ee8f04908889d14de6b05eceb [PID 6501]: warm shut down requested
+2025-09-05 10:28:42,484 Unsubscribing from channel rq:pubsub:9e616c2ee8f04908889d14de6b05eceb
+2025-09-05 10:28:46,068 Worker rq:worker:e079f92f14e14a729799466b2be725a5 started with PID 6576, version 1.15.1
+2025-09-05 10:28:46,068 Subscribing to channel rq:pubsub:e079f92f14e14a729799466b2be725a5
+2025-09-05 10:28:46,070 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:28:46,438 Worker e079f92f14e14a729799466b2be725a5 [PID 6576]: warm shut down requested
+2025-09-05 10:28:46,439 Unsubscribing from channel rq:pubsub:e079f92f14e14a729799466b2be725a5
+2025-09-05 10:29:53,097 Worker rq:worker:5732ce1ba5e64c84b7b907acbe73e93b started with PID 6714, version 1.15.1
+2025-09-05 10:29:53,097 Subscribing to channel rq:pubsub:5732ce1ba5e64c84b7b907acbe73e93b
+2025-09-05 10:29:53,098 *** Listening on home-sbdigital-frappe-bench:short, home-sbdigital-frappe-bench:default, home-sbdigital-frappe-bench:long...
+2025-09-05 10:32:53,702 home-sbdigital-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: yashasyashu24@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='education.test', user='Administrator') (education.test::74da9ce9-299f-4625-9f27-499eb7175c95)
+2025-09-05 10:32:53,703 home-sbdigital-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'yashasyashu24@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='education.test', user='Administrator') (education.test::4f58e14f-5b56-46d3-90be-e3d85a42ad30)
+2025-09-05 10:32:54,297 home-sbdigital-frappe-bench:default: Job OK (education.test::4f58e14f-5b56-46d3-90be-e3d85a42ad30)
+2025-09-05 10:32:54,298 Result is kept for 600 seconds
+2025-09-05 10:32:55,516 home-sbdigital-frappe-bench:default: Job OK (education.test::74da9ce9-299f-4625-9f27-499eb7175c95)
+2025-09-05 10:32:55,516 Result is kept for 600 seconds
+2025-09-05 10:46:24,377 Cleaning registries for queue: home-sbdigital-frappe-bench:default
+2025-09-05 10:46:24,381 Cleaning registries for queue: home-sbdigital-frappe-bench:long
+2025-09-05 10:59:54,974 Cleaning registries for queue: home-sbdigital-frappe-bench:short
+2025-09-05 11:13:25,003 Cleaning registries for queue: home-sbdigital-frappe-bench:default
+2025-09-05 11:13:25,007 Cleaning registries for queue: home-sbdigital-frappe-bench:long
